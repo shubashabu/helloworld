@@ -1,15 +1,17 @@
-print('Hello world')
+print("🌙 Night Mode Activated...\n")
 
-text='''
+cat = r"""
+        /\_____/\  
+       /  ◕   ◕  \ 
+      ( ==  ^  == )
+       )         (
+      (           )
+     ( (  )   (  ) )
+    (__(__)___(__)__)
 
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
+   💖 Hello World 💖
+"""
 
-    '''
+print(cat)
 
-print(text)
+print("\n🚀 Ready to go!")
